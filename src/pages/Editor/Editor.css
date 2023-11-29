@@ -1,1 +1,5 @@
-/*# sourceMappingURL=Editor.css.map */
+.editor__container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}/*# sourceMappingURL=Editor.css.map */

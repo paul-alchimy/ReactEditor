@@ -30,7 +30,7 @@ function App() {
 
   if (!session) {
     return (
-      <div class="auth__container bg-secondary">
+      <div className="auth__container bg-secondary">
         <Auth
           supabaseClient={supabase}
           providers={[]}
